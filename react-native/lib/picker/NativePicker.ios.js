@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _reactNative = require('react-native');
+var _reactNative = require('@react-native-community/picker');
 
 Object.defineProperty(exports, 'default', {
   enumerable: true,
